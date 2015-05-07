@@ -27,7 +27,7 @@ module.exports = StyleSheet.create({
     borderRadius: 2,
     borderWidth: 1,
     right: 20,
-    top: 20,
+    top: -20,
     paddingLeft: 10,
     paddingRight: 10,
     paddingTop: 5,
